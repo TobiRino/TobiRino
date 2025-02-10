@@ -10,7 +10,7 @@ build useful [open-source projects](https://github.com/TobiRino), build technica
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm an Alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, UI Designer (Junior level / Entry level).
+- 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer, UI Designer ( Mid level).
 - 📫 You can [view my resume](#) and contact me by emailing oluwatobi.aderinokun222@gmail.com.
 ---
